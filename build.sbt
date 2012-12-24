@@ -1,4 +1,4 @@
-name := "aws-tag-monitor"
+name := "lift-api-skeleton"
 
 version := "0.0"
 
